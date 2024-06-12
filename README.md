@@ -89,11 +89,11 @@ Once the above command is executed, the app will be running at ```localhost:8000
 
 - #### Home Page
 
-    ![home](./assets/image.png)
+    ![home](./media/Screenshot%20(57).png)
 
-- #### Page
+- #### Preview Page
 
-    ![forms](./assets/image-1.png)
+    ![Preview](./media/Screenshot%20(56).png)
 
 
 
