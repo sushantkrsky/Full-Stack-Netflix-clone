@@ -69,7 +69,6 @@ Install all the required dependencies
 pip install
 pip install -r requirements.txt
 pip install django-tailwind
-
 ```
 
 ## Run the App
