@@ -36,7 +36,7 @@ User Experience (UX): Focus on designing an intuitive and engaging user interfac
 
 ## Demo
 
-https://github.com/PritK99/Legal-Documentation-Assistant/assets/103848930/023f19a9-dea2-458b-ae53-6f6c7f36d74f
+
 
 ## Tech Stack
 
@@ -76,13 +76,11 @@ pip install django-tailwind
 1. Create super user
 ```
 python manage.py createsuperuser
-
 ```
 2. Open Admin site and add movie
 3. Run the project
 ```
 python manage.py runserver
-
 ```
 
 Once the above command is executed, the app will be running at ```localhost:8000```. You can visit http://localhost:8000/ to view the website.
@@ -94,7 +92,7 @@ Once the above command is executed, the app will be running at ```localhost:8000
 
     ![home](./assets/image.png)
 
-- #### Documents Page
+- #### Page
 
     ![forms](./assets/image-1.png)
 
