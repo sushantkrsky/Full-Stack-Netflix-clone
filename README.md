@@ -35,8 +35,7 @@ User Experience (UX): Focus on designing an intuitive and engaging user interfac
 
 
 ## Demo
-
-
+[Demo](https://github.com/sushantkrsky/Full-Stack-Netflix-clone/blob/main/media/movie_videos/Recording.mp4)
 
 ## Tech Stack
 
